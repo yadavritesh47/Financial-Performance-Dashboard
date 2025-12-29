@@ -21,10 +21,10 @@ The **Financial Performance Dashboard** provides an in-depth analysis of:
 ## 📷 Dashboard Screenshots
 
 ### Main Dashboard:
-![Financial Dashboard 1](./images/project1_1.png)
+![Financial Dashboard 1](./powerbiproject/project1_1.png)
 
 ### Detailed Analysis View:
-![Financial Dashboard 2](./images/project1_2.png)
+![Financial Dashboard 2](./powerbiproject/project1_2.png)
 
 ---
 
